@@ -1,0 +1,6 @@
+C:\Users\riley\Documents\GitHub\dotnetjisho\JishoLibrary\JishoAPI\bin\Debug\netcoreapp2.1\JishoAPI.deps.json
+C:\Users\riley\Documents\GitHub\dotnetjisho\JishoLibrary\JishoAPI\bin\Debug\netcoreapp2.1\JishoAPI.dll
+C:\Users\riley\Documents\GitHub\dotnetjisho\JishoLibrary\JishoAPI\obj\Debug\netcoreapp2.1\JishoAPI.csprojAssemblyReference.cache
+C:\Users\riley\Documents\GitHub\dotnetjisho\JishoLibrary\JishoAPI\obj\Debug\netcoreapp2.1\JishoAPI.csproj.CoreCompileInputs.cache
+C:\Users\riley\Documents\GitHub\dotnetjisho\JishoLibrary\JishoAPI\obj\Debug\netcoreapp2.1\JishoAPI.AssemblyInfoInputs.cache
+C:\Users\riley\Documents\GitHub\dotnetjisho\JishoLibrary\JishoAPI\obj\Debug\netcoreapp2.1\JishoAPI.AssemblyInfo.cs
